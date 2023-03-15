@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/k6chan/DSC180B-Q2-Project.git",
+    "project-repository": "https://github.com/k6chan/reverse-dictionary-pokemon.git",
+    "dockerhub-repository": "k6chan/reverse-dictionary-pokemon:latest",
+    "project-website-url": "https://k6chan.github.io/reverse-dictionary-pokemon/",
+    "project-website-code": "https://github.com/k6chan/reverse-dictionary-pokemon.git"
 }
